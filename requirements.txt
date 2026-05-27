@@ -1,3 +1,0 @@
-python-telegram-bot[job-queue]==21.6
-supabase==2.5.3
-pytz==2024.1
